@@ -1,4 +1,4 @@
-# NanoLieDetector
+# Kinski Polygraph
 Arduino Nano Lie Detector Polygraph
 
 # Demo 
